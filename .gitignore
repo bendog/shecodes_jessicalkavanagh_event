@@ -1,6 +1,5 @@
-venv/
-.venv/
-.vscode/
+venv/*
+.venv/*
+.vscode/*
 *.pyc
 *.sqlite
-.vscode/settings.json
